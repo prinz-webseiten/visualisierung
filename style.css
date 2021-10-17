@@ -1,0 +1,212 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#top{
+        text-align: center;
+        color: orange;
+}
+
+
+#logo-name{
+        color: black;
+        background-color: orange;
+        font-size: 32px;
+        font-weight:bold;
+        padding: 8px;
+        margin-left: 550px;
+        margin-right: 550px;
+        text-align: center;
+}
+
+            
+            #navigation{
+                    text-align: center;
+                    color: red;
+                    font-size: 40px;
+                    
+                
+            }
+            
+            #navi{
+                    text-align: center;
+                    color: green;
+                    font-size: 250%;
+                    
+                    
+            }
+
+
+            #urus{
+                    width:1300px;
+                    height: auto;
+                    text-align: center;
+            }
+
+            #Golf-GTI{  
+                   width: 1300px;
+                   height: auto;
+                   text-align: center;
+            }
+            
+            #Hauptmenuebutton{
+                text-align: center;
+            }
+            #footer{
+                    text-align: center;
+                    color: rgb(13, 209, 13);
+                    
+            }
+            #navi2{
+                    text-align: center;
+                    color: darkorange;
+                    font-size: 250%;
+            }
+            #heli{
+                    text-align: center;
+            }
+            #RS6{
+                    text-align: center;
+                   
+            }
+            #BMW{
+                    text-align: center;
+            }
+            #AMG{
+                    text-align: center;
+            }
+            #Camaro{
+                    text-align: center;
+            }
+            #Hauptmenuebutton a:hover{
+                    color: red;
+                    }
+            #Hauptmenuebutton p:hover{
+                    background-color: yellow;
+                    display: inline-block;
+            }
+            #Challenger{
+                    text-align: center;
+            }
+            #Focus{
+                text-align: center;
+            }
+            #Mustang{
+                    text-align: center;
+            }
+            #Woerthersee{
+                    text-align: center;
+            }
+            #Ibiza{
+                    text-align: center;
+            }
+            #usa{
+                    text-align: center;
+            }
+            #rio{
+                    text-align: center;
+            }
+            #paradies{
+                    text-align: center;
+            }
+            #BMW-M4{
+                    text-align: center;
+            }
+            #aventador{
+                    text-align: center;
+            }
+            #touareg{
+                    text-align: center;
+            }
+            #arteon{
+                    text-align: center;
+            }
+            #kopfbild{
+                    text-align: center;
+                    margin: 16px;
+            }
+            #leiste{
+                    text-align: center;
+                    margin: 25px;
+                    font-size: xx-large;
+                    color: red;
+                    
+            }
+            #house{
+                    text-align: center;
+            }
+            #car{
+                    text-align: center;
+            }
+            #diverses{
+                    text-align: center;
+            }
+            #main2{
+                    text-align: center;
+            }
+            #logo-name2{
+                    text-align: center;
+            }
+            #leiste a{
+                    color: turquoise;
+                    background-color: black;
+                    display:inline-block;
+            }
+            #leiste a:hover{
+                    color: yellow;
+                    background-color: black;
+                    font-weight: bolder;
+            }
+            #boot{
+                    text-align: center;
+            }
+            #jet{
+                    text-align: center;
+            }
+            #unten{
+                    text-align: center;
+                    margin: 20px;
+            }
+            #mitte{
+                    text-align: center;
+                    margin: 20px;
+            }
+            #oberes-bild{
+                    text-align: center;
+            }
+            h2 {
+                    text-decoration: underline;
+                    color: red;
+            }
+            #Impressum{
+                    color: orangered;
+                    background-color: greenyellow;
+                    margin: 20px;
+                    display: inline-block;
+                    font-size: 25px;
+            }
+            #olaf{
+                    text-align: left;
+                    margin: 15px;
+            }
+            #olaf{
+                    text-align: right;
+                    margin: 15px;
+            }
+            #olaf3{
+                    text-align: center;
+                    margin: 15px;
+            }
+            #olaf4{
+                    text-align: left;
+                    margin: 15px;
+            }
+            #olaf5{
+                    text-align: right;
+                    margin: 15px;
+
+            }
+            H2{
+                    text-align: center;
+                    font-size: 35px;
+                    font-family: cursive;
+            }
